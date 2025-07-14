@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirBR996 
-- 👀 I’m interested in ML engineering.
+- 👀 I’m interested in AI/ML engineering.
 - 🌱 I’m currently learning Bachelor in Computer Science and Information Technology.
 - 💞️ I’m looking to collaborate on Anywhere in Which I can contribute and I can get Friendly Environment.
 - 📫 You can gmail me on amirgulmeli123@gmail.com and Whatsapp: +977 9818585524
