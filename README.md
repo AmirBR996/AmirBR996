@@ -18,8 +18,5 @@ I am open to collaborating on AI/ML projects or any software development work wh
 - 🌐 LinkedIn: https://www.linkedin.com/in/amir-bhattarai-7577b4322
 - 🌐 Website: https://amir-bhattrai-amirbr996s-projects.vercel.app/
 
----
-
-⚡ **Fun fact:** I enjoy exploring new technologies beyond machine learning and love tackling puzzles and challenges of all kinds. Always curious and eager to learn!
 
 
