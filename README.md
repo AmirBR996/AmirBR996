@@ -9,6 +9,12 @@ I am a passionate AI and Machine Learning engineer currently pursuing my Bachelo
 - **Data Science:** Data preprocessing, visualization, NLP  
 - **Tools:** Git, GitHub, Jupyter Notebooks, VS Code
 
+## Certifications
+
+- **100 Days of Code: The Complete Python Pro Bootcamp**
+  - Udemy — Angela Yu
+  - [View Certificate]([https://www.udemy.com/certificate/UC-ed8a4256-4060-4f5f-8715-ae9c82c69d14/])
+
 ## What I’m Looking For
 I am open to collaborating on AI/ML projects or any software development work where I can contribute meaningfully and continue learning. I value teamwork, code quality, and innovation.
 
