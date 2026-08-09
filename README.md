@@ -12,6 +12,8 @@ I am an AI and Machine Learning engineer pursuing a Bachelor's degree in Compute
 ## Certifications
 - **100 Days of Code: The Complete Python Pro Bootcamp** — Udemy (Instructor: Angela Yu)  
   [View Certificate](https://www.udemy.com/certificate/UC-ed8a4256-4060-4f5f-8715-ae9c82c69d14/)
+- **100 Days of Code: The Complete Web Development Bootcamp** — Udemy (Instructor: Angela Yu)  
+  [View Certificate](https://www.udemy.com/certificate/UC-c6dc6d7c-736a-4698-91f3-5146d3b4176d/)
 
 ## What I’m Looking For
 Open to collaborating on AI/ML projects, open-source initiatives, and software development roles where I can contribute meaningfully, solve complex problems, and continue growing as an engineer.
