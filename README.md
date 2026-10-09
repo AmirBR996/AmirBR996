@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Amir%20Bhattarai&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=22&descAlignY=60&descColor=00f5d4" width="100%" alt="header"/>
@@ -8,9 +9,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=7209b7&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=f72585&logo=github" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=AmirBR996&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/AmirBR996?label=Followers&style=for-the-badge&color=7209b7&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/AmirBR996?label=Stars&style=for-the-badge&color=f72585&logo=github" alt="stars"/>
 
 <br/><br/>
 
@@ -35,9 +36,9 @@ class Amir:
         self.role      = "AI & ML Engineer"
         self.education = "B.Sc. CSIT"
         self.location  = "Nepal 🇳🇵"
-        self.languages = ["Python", "C++"]
-        self.frameworks = ["PyTorch", "TensorFlow", "Scikit-Learn"]
-        self.focus     = ["Deep Learning", "NLP", "Data Science"]
+        self.languages = ["Python", "Javascript"]
+        self.frameworks = ["PyTorch", "Langchain", "Langgraph" , "Scikit-Learn"]
+        self.focus     = ["Deep Learning", "Agentic-AI", "Data Science"]
         self.mindset   = "Build. Break. Learn. Repeat."
 
     def current_goal(self):
@@ -84,30 +85,30 @@ class Amir:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmirBR996&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBR996&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=AmirBR996&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmirBR996&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
 
 </div>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBR996&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirBR996/AmirBR996/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirBR996/AmirBR996/output/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/AmirBR996/AmirBR996/output/github-snake.svg"/>
   </picture>
 </div>
 
@@ -128,8 +129,8 @@ class Amir:
 
 ## 🔭 Currently
 
-- 🧪 Exploring deep learning architectures with **PyTorch**
-- 💬 Experimenting with **NLP** pipelines and language models
+- 🧪 Exploring Agentic AI system and their evaluation
+- 💬 Experimenting with **AI** pipelines and language models
 - 🎓 Studying **CSIT** and strengthening CS fundamentals in **C++**
 - 🌱 Contributing to open source and building in public
 
