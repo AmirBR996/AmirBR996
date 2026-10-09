@@ -1,11 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Amir%20Bhattarai&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=22&descAlignY=60&descColor=00f5d4" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=👋+Hi%2C+I'm+Amir+from+Nepal+🇳🇵;🧠+Building+practical+AI+%26+ML+solutions;⚙️+Clean+code+%7C+Real-world+impact;🚀+Open+to+collaborations+%26+opportunities" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=&text=Amir%20Bhattarai&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=22&descAlignY=60&descColor=00f5d4" width="100%" alt=""/>
 
 <br/>
 
@@ -26,20 +21,18 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="opacity:0.12"/>
-
 I'm an **AI & Machine Learning Engineer** pursuing a **Bachelor's in Computer Science and Information Technology**. I focus on building **practical, real-world solutions** and thrive in collaborative environments that value **innovation and clean code**.
 
 ```python
 class Amir:
     def __init__(self):
-        self.role      = "AI & ML Engineer"
-        self.education = "B.Sc. CSIT"
-        self.location  = "Nepal 🇳🇵"
-        self.languages = ["Python", "Javascript"]
-        self.frameworks = ["PyTorch", "Langchain", "Langgraph" , "Scikit-Learn"]
-        self.focus     = ["Deep Learning", "Agentic-AI", "Data Science"]
-        self.mindset   = "Build. Break. Learn. Repeat."
+        self.role       = "AI & ML Engineer"
+        self.education  = "B.Sc. CSIT"
+        self.location   = "Nepal 🇳🇵"
+        self.languages  = ["Python", "JavaScript"]
+        self.frameworks = ["PyTorch", "LangChain", "LangGraph", "Scikit-Learn"]
+        self.focus      = ["Deep Learning", "Agentic-AI", "Data Science"]
+        self.mindset    = "Build. Break. Learn. Repeat."
 
     def current_goal(self):
         return "Ship impactful AI products & grow as an engineer 🚀"
@@ -52,32 +45,24 @@ class Amir:
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,cpp&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="languages"/>
 
-### Machine Learning & Deep Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="ml"/>
+### AI, Machine Learning & Deep Learning
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&theme=dark" alt="ml"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+<img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph"/>
 
 ### Developer Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
 
-### Web (from my Web Dev Bootcamp)
+### Web development
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="web"/>
 
 </div>
 
-<details>
-<summary><b>📊 Data Science & NLP focus areas (click to expand)</b></summary>
-<br/>
 
-| Area | What I do |
-|:--|:--|
-| 🧹 **Preprocessing** | Cleaning, feature engineering, handling missing & imbalanced data |
-| 🔍 **EDA** | Statistical analysis, pattern discovery, hypothesis building |
-| 📈 **Visualization** | Matplotlib, Seaborn, insight-driven storytelling |
-| 💬 **NLP** | Text processing, tokenization, embeddings, classification |
-
-</details>
 
 ---
 
@@ -94,13 +79,13 @@ class Amir:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmirBR996&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmirBR996&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt=""/>
 
 </div>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBR996&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirBR996&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="100%" alt=""/>
 
 ### 🐍 Contribution Snake
 
@@ -108,7 +93,7 @@ class Amir:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirBR996/AmirBR996/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirBR996/AmirBR996/output/github-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/AmirBR996/AmirBR996/output/github-snake.svg"/>
+    <img alt="" src="https://raw.githubusercontent.com/AmirBR996/AmirBR996/output/github-snake.svg"/>
   </picture>
 </div>
 
@@ -129,7 +114,7 @@ class Amir:
 
 ## 🔭 Currently
 
-- 🧪 Exploring Agentic AI system and their evaluation
+- 🧪 Exploring Agentic AI systems and their evaluation
 - 💬 Experimenting with **AI** pipelines and language models
 - 🎓 Studying **CSIT** and strengthening CS fundamentals in **C++**
 - 🌱 Contributing to open source and building in public
